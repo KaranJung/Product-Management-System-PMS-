@@ -1,0 +1,43 @@
+END USER LICENSE AGREEMENT (EULA) FOR PMS SOFTWARE
+
+Version 1.0
+Effective Date: March 05, 2025
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("User" or "You") and Karan Jung Budhathoki ("Licensor"), the developer of the Product Management System software ("PMS" or "Software"). By installing, copying, or otherwise using the Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE
+   Licensor grants you a non-exclusive, non-transferable, revocable license to use the Software for personal or commercial purposes, provided you comply with this Agreement. This license is limited to the version of the Software provided (Version 1.0) and does not include rights to modify, reverse-engineer, or distribute the Software except as expressly permitted herein.
+
+2. OWNERSHIP
+   The Software is owned by Karan Jung Budhathoki and is protected by copyright laws and international treaties. All rights not expressly granted in this Agreement are reserved by the Licensor.
+
+3. ACTIVATION AND RESTRICTIONS
+   - The Software requires a valid license key ("PMS-2025-PROD-MGMT") for activation. Use of an invalid or unauthorized key is prohibited.
+   - You may install and use the Software on a single computer or device. Additional installations require separate licenses.
+   - You may not sublicense, lease, rent, or lend the Software.
+   - You may not decompile, disassemble, or attempt to derive the source code of the Software, except where permitted by law.
+
+4. DISTRIBUTION
+   You may distribute the installer (`PMS_Setup.exe`) provided it remains unchanged and includes this Agreement. You may not distribute the Software’s source code or standalone executable (`pms.exe`) without written permission from the Licensor.
+
+5. DATA AND PRIVACY
+   The Software generates files such as `products.db`, `config.ini`, and `app.log` for its operation. These files are stored locally on your device. The Licensor does not collect or access this data remotely.
+
+6. WARRANTY DISCLAIMER
+   The Software is provided "AS IS" without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The Licensor does not guarantee that the Software will meet your requirements or operate without interruption or error.
+
+7. LIMITATION OF LIABILITY
+   In no event shall the Licensor be liable for any indirect, incidental, special, or consequential damages arising from the use of or inability to use the Software, even if advised of the possibility of such damages.
+
+8. TERMINATION
+   This Agreement is effective until terminated. It will terminate automatically if you fail to comply with its terms. Upon termination, you must cease all use of the Software and destroy all copies.
+
+9. GOVERNING LAW
+   This Agreement shall be governed by the laws of  Nepal, without regard to conflict of law principles.
+
+10. CONTACT INFORMATION
+    For questions or support, contact:
+    Karan Jung Budhathoki
+    Email: underside001@gmail.com
+
+© 2025 Karan Jung Budhathoki. All rights reserved.
